@@ -11,7 +11,7 @@ Google AI Studio API Key
 INSTALLATION
 
 1. Clone the repository:
-   git clone https://github.com/OMKARNZ/Pyhton-Ai-chatbot-.git
+   git clone https://github.com/OMKARNZ/Python-Ai-chatbot.git
    cd your-repo-name
 
 2. Install the required dependency:
